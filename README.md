@@ -1,7 +1,7 @@
 # Besebese
 Nettoyage des données médicales avec python et pandas pour produire un jeu de données propre et exploitable
 
-# Analyse des ventes - Projet personnel
+# Projet personnel
 
 ## Présentation
 Ce projet vise à nettoyer un jeu de données médicales contenant des informations sur des patients. Nous avons utilisé Python et la bibliothèque Pandas
